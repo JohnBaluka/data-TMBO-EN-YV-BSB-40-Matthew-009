@@ -1,12 +1,16 @@
 1
-00:00:00,000 --> 00:00:06,687
+00:00:00,035 --> 00:00:06,385
 Suddenly a woman who had suffered from bleeding for twelve years came up behind Him and touched the fringe of His cloak.
 
 2
-00:00:06,861 --> 00:00:10,971
-She said to herself, &#8220;If only I touch His cloak, I will be healed.&#8221;
+00:00:06,989 --> 00:00:11,041
+She said to herself, “If only I touch His cloak, I will be healed.”
 
 3
-00:00:11,784 --> 00:00:20,294
-Jesus turned and saw her. &#8220;Take courage, daughter,&#8221; He said, &#8220;your faith has healed you.&#8221; And the woman was healed from that very hour.
+00:00:11,736 --> 00:00:13,084
+Jesus turned and saw her.
+
+4
+00:00:13,560 --> 00:00:18,576
+“Take courage, daughter,” He said, “your faith has healed you.” And the woman was healed from that very hour.
 
