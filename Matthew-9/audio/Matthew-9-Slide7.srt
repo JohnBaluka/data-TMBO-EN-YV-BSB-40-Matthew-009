@@ -1,0 +1,8 @@
+1
+00:00:00,000 --> 00:00:07,233
+Then John&#8217;s disciples came to Jesus and asked, &#8220;Why is it that we and the Pharisees fast so often, but Your disciples do not fast?&#8221;
+
+2
+00:00:07,744 --> 00:00:15,279
+Jesus replied, &#8220;How can the guests of the bridegroom mourn while He is with them? But the time will come when the bridegroom will be taken from them; then they will fast.
+
