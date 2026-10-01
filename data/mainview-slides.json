@@ -7,7 +7,7 @@
     "svgContent": "",
     "transition": "none",
     "revealStyle": "",
-    "viewBox": "648.55 77.81 619.79 519.36",
+    "viewBox": "648.55 122.65 619.79 519.36",
     "slideWidth": "619.79",
     "slideHeight": "519.36",
     "defaultSlidePosition": "right",
@@ -83,7 +83,7 @@
     "pngSrc": "images/Matthew-9-Slide3.png",
     "svgSrc": "images/Matthew-9-Slide3.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 108.41 619.79 519.36",
     "slideWidth": "619.79",
@@ -114,7 +114,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide3.htm",
     "subtitlesFile": "audio/Matthew-9-Slide3.srt",
-    "videoStart": 29.174999999999997
+    "videoStart": 27.874999999999996
   },
   {
     "index": 4,
@@ -122,7 +122,7 @@
     "pngSrc": "images/Matthew-9-Slide4.png",
     "svgSrc": "images/Matthew-9-Slide4.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 108.41 619.79 519.36",
     "slideWidth": "619.79",
@@ -153,7 +153,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide4.htm",
     "subtitlesFile": "audio/Matthew-9-Slide4.srt",
-    "videoStart": 48.73
+    "videoStart": 46.129999999999995
   },
   {
     "index": 5,
@@ -161,7 +161,7 @@
     "pngSrc": "images/Matthew-9-Slide5.png",
     "svgSrc": "images/Matthew-9-Slide5.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 108.41 619.79 519.36",
     "slideWidth": "619.79",
@@ -192,7 +192,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide5.htm",
     "subtitlesFile": "audio/Matthew-9-Slide5.srt",
-    "videoStart": 58.671
+    "videoStart": 54.771
   },
   {
     "index": 6,
@@ -200,7 +200,7 @@
     "pngSrc": "images/Matthew-9-Slide6.png",
     "svgSrc": "images/Matthew-9-Slide6.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 108.41 619.79 519.36",
     "slideWidth": "619.79",
@@ -231,7 +231,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide6.htm",
     "subtitlesFile": "audio/Matthew-9-Slide6.srt",
-    "videoStart": 73.535
+    "videoStart": 68.33500000000001
   },
   {
     "index": 7,
@@ -241,21 +241,21 @@
     "svgContent": "",
     "transition": "none",
     "revealStyle": "",
-    "viewBox": "0 0 1280 720",
-    "slideWidth": "1280",
-    "slideHeight": "720",
-    "defaultSlidePosition": "right",
-    "currentSlidePosition": "right",
-    "previousSlidePosition": "right",
-    "defaultSlideSize": "small",
-    "currentSlideSize": "small",
-    "previousSlideSize": "small",
-    "defaultTextSize": "large",
-    "currentTextSize": "large",
-    "previousTextSize": "large",
-    "slidePosition": "right",
-    "slideSize": "small",
-    "textSize": "large",
+    "viewBox": "16 78.73 1243.61 596.27",
+    "slideWidth": "1243.61",
+    "slideHeight": "596.27",
+    "defaultSlidePosition": "center",
+    "currentSlidePosition": "center",
+    "previousSlidePosition": "center",
+    "defaultSlideSize": "medium",
+    "currentSlideSize": "medium",
+    "previousSlideSize": "medium",
+    "defaultTextSize": "medium",
+    "currentTextSize": "medium",
+    "previousTextSize": "medium",
+    "slidePosition": "center",
+    "slideSize": "medium",
+    "textSize": "medium",
     "hasSlidePositionChanged": false,
     "hasSlideSizeChanged": false,
     "hasTextSizeChanged": false,
@@ -270,7 +270,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide7.htm",
     "subtitlesFile": "audio/Matthew-9-Slide7.srt",
-    "videoStart": 86.449
+    "videoStart": 81.24900000000001
   },
   {
     "index": 8,
@@ -280,21 +280,21 @@
     "svgContent": "",
     "transition": "none",
     "revealStyle": "",
-    "viewBox": "0 0 1280 720",
-    "slideWidth": "1280",
-    "slideHeight": "720",
-    "defaultSlidePosition": "left",
-    "currentSlidePosition": "left",
-    "previousSlidePosition": "left",
-    "defaultSlideSize": "small",
-    "currentSlideSize": "small",
-    "previousSlideSize": "small",
-    "defaultTextSize": "large",
-    "currentTextSize": "large",
-    "previousTextSize": "large",
-    "slidePosition": "left",
-    "slideSize": "small",
-    "textSize": "large",
+    "viewBox": "23.4 81.23 1233.21 591.28",
+    "slideWidth": "1233.21",
+    "slideHeight": "591.28",
+    "defaultSlidePosition": "center",
+    "currentSlidePosition": "center",
+    "previousSlidePosition": "center",
+    "defaultSlideSize": "medium",
+    "currentSlideSize": "medium",
+    "previousSlideSize": "medium",
+    "defaultTextSize": "medium",
+    "currentTextSize": "medium",
+    "previousTextSize": "medium",
+    "slidePosition": "center",
+    "slideSize": "medium",
+    "textSize": "medium",
     "hasSlidePositionChanged": false,
     "hasSlideSizeChanged": false,
     "hasTextSizeChanged": false,
@@ -305,11 +305,11 @@
     "navigationExpanded": false,
     "slideSettingsExpanded": false,
     "fragmentControlsExpanded": false,
-    "audioFile": "audio/Matthew-9-Slide8.mp3",
+    "audioFile": "",
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide8.htm",
-    "subtitlesFile": "audio/Matthew-9-Slide8.srt",
-    "videoStart": 103.728
+    "subtitlesFile": "",
+    "videoStart": 99.572
   },
   {
     "index": 9,
@@ -317,7 +317,7 @@
     "pngSrc": "images/Matthew-9-Slide9.png",
     "svgSrc": "images/Matthew-9-Slide9.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 113.72 619.79 519.36",
     "slideWidth": "619.79",
@@ -348,7 +348,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide9.htm",
     "subtitlesFile": "audio/Matthew-9-Slide9.srt",
-    "videoStart": 124.86099999999999
+    "videoStart": 119.405
   },
   {
     "index": 10,
@@ -356,7 +356,7 @@
     "pngSrc": "images/Matthew-9-Slide10.png",
     "svgSrc": "images/Matthew-9-Slide10.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "551.41 77.81 713.45 597.98",
     "slideWidth": "713.45",
@@ -387,7 +387,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide10.htm",
     "subtitlesFile": "audio/Matthew-9-Slide10.srt",
-    "videoStart": 140.7
+    "videoStart": 133.944
   },
   {
     "index": 11,
@@ -395,7 +395,7 @@
     "pngSrc": "images/Matthew-9-Slide11.png",
     "svgSrc": "images/Matthew-9-Slide11.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 115.91 619.79 519.36",
     "slideWidth": "619.79",
@@ -426,7 +426,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide11.htm",
     "subtitlesFile": "audio/Matthew-9-Slide11.srt",
-    "videoStart": 161.27599999999998
+    "videoStart": 153.21999999999997
   },
   {
     "index": 12,
@@ -434,7 +434,7 @@
     "pngSrc": "images/Matthew-9-Slide12.png",
     "svgSrc": "images/Matthew-9-Slide12.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 115.91 619.79 519.36",
     "slideWidth": "619.79",
@@ -465,7 +465,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide12.htm",
     "subtitlesFile": "audio/Matthew-9-Slide12.srt",
-    "videoStart": 173.539
+    "videoStart": 164.18299999999996
   },
   {
     "index": 13,
@@ -473,7 +473,7 @@
     "pngSrc": "images/Matthew-9-Slide13.png",
     "svgSrc": "images/Matthew-9-Slide13.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 115.91 619.79 519.36",
     "slideWidth": "619.79",
@@ -504,7 +504,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide13.htm",
     "subtitlesFile": "audio/Matthew-9-Slide13.srt",
-    "videoStart": 183.202
+    "videoStart": 172.54599999999996
   },
   {
     "index": 14,
@@ -512,7 +512,7 @@
     "pngSrc": "images/Matthew-9-Slide14.png",
     "svgSrc": "images/Matthew-9-Slide14.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 115.91 619.79 519.36",
     "slideWidth": "619.79",
@@ -539,11 +539,11 @@
     "navigationExpanded": false,
     "slideSettingsExpanded": false,
     "fragmentControlsExpanded": false,
-    "audioFile": "audio/Matthew-9-Slide14.mp3",
+    "audioFile": "",
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide14.htm",
-    "subtitlesFile": "audio/Matthew-9-Slide14.srt",
-    "videoStart": 199.32
+    "subtitlesFile": "",
+    "videoStart": 187.36399999999995
   },
   {
     "index": 15,
@@ -551,11 +551,11 @@
     "pngSrc": "images/Matthew-9-Slide15.png",
     "svgSrc": "images/Matthew-9-Slide15.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
-    "viewBox": "648.55 115.91 619.79 519.36",
-    "slideWidth": "619.79",
-    "slideHeight": "519.36",
+    "viewBox": "648.55 169.26 616.56 411.04",
+    "slideWidth": "616.56",
+    "slideHeight": "411.04",
     "defaultSlidePosition": "left",
     "currentSlidePosition": "left",
     "previousSlidePosition": "left",
@@ -582,7 +582,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide15.htm",
     "subtitlesFile": "audio/Matthew-9-Slide15.srt",
-    "videoStart": 213.534
+    "videoStart": 200.27799999999993
   },
   {
     "index": 16,
@@ -590,11 +590,11 @@
     "pngSrc": "images/Matthew-9-Slide16.png",
     "svgSrc": "images/Matthew-9-Slide16.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
-    "viewBox": "0 0 1280 720",
-    "slideWidth": "1280",
-    "slideHeight": "720",
+    "viewBox": "648.55 162.16 619.79 413.84",
+    "slideWidth": "619.79",
+    "slideHeight": "413.84",
     "defaultSlidePosition": "right",
     "currentSlidePosition": "right",
     "previousSlidePosition": "right",
@@ -621,7 +621,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide16.htm",
     "subtitlesFile": "audio/Matthew-9-Slide16.srt",
-    "videoStart": 232.159
+    "videoStart": 217.60299999999992
   },
   {
     "index": 17,
@@ -629,7 +629,7 @@
     "pngSrc": "images/Matthew-9-Slide17.png",
     "svgSrc": "images/Matthew-9-Slide17.svg",
     "svgContent": "",
-    "transition": "none",
+    "transition": "fade",
     "revealStyle": "",
     "viewBox": "648.55 115.91 619.79 519.36",
     "slideWidth": "619.79",
@@ -660,7 +660,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide17.htm",
     "subtitlesFile": "audio/Matthew-9-Slide17.srt",
-    "videoStart": 247.381
+    "videoStart": 231.52499999999992
   },
   {
     "index": 18,
@@ -699,6 +699,6 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide18.htm",
     "subtitlesFile": "",
-    "videoStart": 256.576
+    "videoStart": 240.7199999999999
   }
 ]

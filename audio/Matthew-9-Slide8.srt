@@ -1,8 +1,0 @@
-1
-00:00:00,000 --> 00:00:07,059
-No one sews a patch of unshrunk cloth on an old garment. For the patch will pull away from the garment, and a worse tear will result.
-
-2
-00:00:07,872 --> 00:00:19,133
-Neither do men pour new wine into old wineskins. If they do, the skins will burst, the wine will spill, and the wineskins will be ruined. Instead, they pour new wine into new wineskins, and both are preserved.&#8221;
-
