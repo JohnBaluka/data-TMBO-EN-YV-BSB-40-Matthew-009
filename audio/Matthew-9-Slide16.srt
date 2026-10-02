@@ -1,8 +1,12 @@
 1
-00:00:00,058 --> 00:00:07,465
-Jesus went through all the towns and villages, teaching in their synagogues, preaching the gospel of the kingdom, and healing every disease and sickness.
+00:00:00,035 --> 00:00:04,051
+As they were leaving, a demon-possessed man who was mute was brought to Jesus.
 
 2
-00:00:07,616 --> 00:00:13,222
-When He saw the crowds, He was moved with compassion for them, because they were harassed and helpless, like sheep without a shepherd.
+00:00:04,331 --> 00:00:12,028
+And when the demon had been driven out, the man began to speak. The crowds were amazed and said, “Nothing like this has ever been seen in Israel!”
+
+3
+00:00:12,121 --> 00:00:16,672
+But the Pharisees said, “It is by the prince of demons that He drives out demons.”
 

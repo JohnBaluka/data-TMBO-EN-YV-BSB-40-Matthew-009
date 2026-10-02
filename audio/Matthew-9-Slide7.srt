@@ -1,8 +1,8 @@
 1
-00:00:00,081 --> 00:00:07,419
-Then John’s disciples came to Jesus and asked, “Why is it that we and the Pharisees fast so often, but Your disciples do not fast?”
+00:00:00,035 --> 00:00:04,063
+On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.
 
 2
-00:00:08,115 --> 00:00:16,323
-Jesus replied, “How can the guests of the bridegroom mourn while He is with them? But the time will come when the bridegroom will be taken from them; then they will fast.
+00:00:04,238 --> 00:00:10,275
+But go and learn what this means: ‘I desire mercy, not sacrifice.’ For I have not come to call the righteous, but sinners.”
 
