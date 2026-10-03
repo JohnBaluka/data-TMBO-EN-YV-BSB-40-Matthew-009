@@ -36,7 +36,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide1.htm",
     "subtitlesFile": "audio/Matthew-9-Slide1.srt",
-    "videoStart": 0.7
+    "videoStart": 0.7,
+    "transitionSeconds": 0.7
   },
   {
     "index": 2,
@@ -75,7 +76,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide2.htm",
     "subtitlesFile": "audio/Matthew-9-Slide2.srt",
-    "videoStart": 10.766
+    "videoStart": 10.766,
+    "transitionSeconds": 0
   },
   {
     "index": 3,
@@ -114,7 +116,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide3.htm",
     "subtitlesFile": "audio/Matthew-9-Slide3.srt",
-    "videoStart": 23.309
+    "videoStart": 23.309,
+    "transitionSeconds": 0.7
   },
   {
     "index": 4,
@@ -153,7 +156,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide4.htm",
     "subtitlesFile": "audio/Matthew-9-Slide4.srt",
-    "videoStart": 38.347
+    "videoStart": 38.347,
+    "transitionSeconds": 0.7
   },
   {
     "index": 5,
@@ -192,7 +196,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide5.htm",
     "subtitlesFile": "audio/Matthew-9-Slide5.srt",
-    "videoStart": 55.254000000000005
+    "videoStart": 55.254000000000005,
+    "transitionSeconds": 0.7
   },
   {
     "index": 6,
@@ -231,7 +236,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide6.htm",
     "subtitlesFile": "audio/Matthew-9-Slide6.srt",
-    "videoStart": 63.89500000000001
+    "videoStart": 63.89500000000001,
+    "transitionSeconds": 0.7
   },
   {
     "index": 7,
@@ -270,7 +276,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide7.htm",
     "subtitlesFile": "audio/Matthew-9-Slide7.srt",
-    "videoStart": 77.35400000000001
+    "videoStart": 77.35400000000001,
+    "transitionSeconds": 0.7
   },
   {
     "index": 8,
@@ -309,7 +316,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide8.htm",
     "subtitlesFile": "audio/Matthew-9-Slide8.srt",
-    "videoStart": 87.62900000000002
+    "videoStart": 87.62900000000002,
+    "transitionSeconds": 0
   },
   {
     "index": 9,
@@ -348,7 +356,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide9.htm",
     "subtitlesFile": "audio/Matthew-9-Slide9.srt",
-    "videoStart": 103.95200000000003
+    "videoStart": 103.95200000000003,
+    "transitionSeconds": 0
   },
   {
     "index": 10,
@@ -387,7 +396,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide10.htm",
     "subtitlesFile": "audio/Matthew-9-Slide10.srt",
-    "videoStart": 122.40300000000003
+    "videoStart": 122.40300000000003,
+    "transitionSeconds": 0.7
   },
   {
     "index": 11,
@@ -426,7 +436,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide11.htm",
     "subtitlesFile": "audio/Matthew-9-Slide11.srt",
-    "videoStart": 136.73300000000003
+    "videoStart": 136.73300000000003,
+    "transitionSeconds": 0.7
   },
   {
     "index": 12,
@@ -465,7 +476,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide12.htm",
     "subtitlesFile": "audio/Matthew-9-Slide12.srt",
-    "videoStart": 156.00900000000001
+    "videoStart": 156.00900000000001,
+    "transitionSeconds": 0.7
   },
   {
     "index": 13,
@@ -504,7 +516,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide13.htm",
     "subtitlesFile": "audio/Matthew-9-Slide13.srt",
-    "videoStart": 166.38
+    "videoStart": 166.38,
+    "transitionSeconds": 0.7
   },
   {
     "index": 14,
@@ -543,7 +556,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide14.htm",
     "subtitlesFile": "audio/Matthew-9-Slide14.srt",
-    "videoStart": 174.743
+    "videoStart": 174.743,
+    "transitionSeconds": 0.7
   },
   {
     "index": 15,
@@ -582,7 +596,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide15.htm",
     "subtitlesFile": "audio/Matthew-9-Slide15.srt",
-    "videoStart": 190.02499999999998
+    "videoStart": 190.02499999999998,
+    "transitionSeconds": 0.7
   },
   {
     "index": 16,
@@ -621,7 +636,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide16.htm",
     "subtitlesFile": "audio/Matthew-9-Slide16.srt",
-    "videoStart": 203.78599999999997
+    "videoStart": 203.78599999999997,
+    "transitionSeconds": 0.7
   },
   {
     "index": 17,
@@ -660,7 +676,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide17.htm",
     "subtitlesFile": "audio/Matthew-9-Slide17.srt",
-    "videoStart": 221.15799999999996
+    "videoStart": 221.15799999999996,
+    "transitionSeconds": 0.7
   },
   {
     "index": 18,
@@ -699,7 +716,8 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide18.htm",
     "subtitlesFile": "audio/Matthew-9-Slide18.srt",
-    "videoStart": 235.07999999999996
+    "videoStart": 235.07999999999996,
+    "transitionSeconds": 0.7
   },
   {
     "index": 19,
@@ -738,6 +756,7 @@
     "videoFile": "",
     "notesFile": "notes/Matthew-9-Slide19.htm",
     "subtitlesFile": "",
-    "videoStart": 243.11399999999995
+    "videoStart": 243.11399999999995,
+    "transitionSeconds": 0
   }
 ]
